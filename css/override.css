@@ -70,3 +70,15 @@ p.address{
 .skill-java{
     width: 50%;
 }
+
+.row.item{
+    margin-bottom: 1.5em !important;
+}
+
+.education{
+    border-bottom: none !important;
+}
+
+#resume{
+    padding-bottom: 0 !important;
+}
