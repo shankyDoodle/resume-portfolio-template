@@ -72,7 +72,7 @@ p.address{
 }
 
 .row.item{
-    margin-bottom: 1.5em !important;
+    margin-bottom: 1.4em !important;
 }
 
 .education{
@@ -81,4 +81,13 @@ p.address{
 
 #resume{
     padding-bottom: 0 !important;
+}
+
+#resume .info {
+    margin-bottom: 15px !important;
+    margin-top: 0px !important;
+}
+
+#resume h3 {
+    margin-bottom: 0px !important;
 }
