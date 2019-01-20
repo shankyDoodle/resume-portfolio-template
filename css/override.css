@@ -140,3 +140,11 @@ p.address{
 .clickMeSpan:hover{
     color: #00bcc3 !important;
 }
+
+.copyright{
+    font-size: 75%;
+}
+
+.copyright a{
+    color: #303030 !important;
+}
