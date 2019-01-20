@@ -89,5 +89,14 @@ p.address{
 }
 
 #resume h3 {
-    margin-bottom: 0px !important;
+    margin-bottom: 0 !important;
+}
+
+.link-box{
+    display: flex;
+    text-align: center !important;
+}
+
+.link-box-link-address, .popup-modal-dismiss{
+    flex: 1;
 }
