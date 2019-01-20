@@ -148,3 +148,16 @@ p.address{
 .copyright a{
     color: #303030 !important;
 }
+
+/*-----------------------------------------------------------------------------------------*/
+@media only screen and (max-width: 767px) {
+    #nav-wrap > a {
+        background-color: transparent !important;
+        right: 0 !important;
+    }
+
+    #nav-wrap > a:before,
+    #nav-wrap > a:after {
+        border: 2px solid #CC5200 !important;
+    }
+}
