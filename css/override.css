@@ -100,3 +100,43 @@ p.address{
 .link-box-link-address, .popup-modal-dismiss{
     flex: 1;
 }
+
+
+#contact{
+    padding-top: 75px !important;
+}
+
+.contact-me{
+    text-align: center !important;
+    margin: 0px 0px 60px 0;
+}
+
+.contact-me h2{
+    display: block !important;
+    color: #fff !important;
+}
+
+#contact .locateMe h1:before{
+    content: "\f124";
+}
+
+#contact .header-col{
+    text-align: center !important;
+}
+
+#contact h1:before{
+    text-align: center !important;
+    float: unset !important;
+}
+
+#contact span{
+    color: #a9a9a9 !important;
+}
+
+.clickMeSpan{
+    color: #a9a9a9 !important;
+}
+
+.clickMeSpan:hover{
+    color: #00bcc3 !important;
+}
