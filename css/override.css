@@ -22,6 +22,10 @@
     color: #fff !important;
 }
 
+#about span, #about p{
+    color: #a9a9a9 !important;
+}
+
 p.address{
     padding: 1em !important;
 }
