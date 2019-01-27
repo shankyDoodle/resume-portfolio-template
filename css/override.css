@@ -52,27 +52,27 @@ p.address{
 }
 
 .skill-js{
-    width: 80%;
+    width: 78%;
 }
 
 .skill-angular{
-    width: 50%;
+    width: 70%;
 }
 
 .skill-react{
-    width: 50%;
+    width: 77%;
 }
 
 .skill-node{
-    width: 50%;
+    width: 70%;
 }
 
 .skill-html{
-    width: 50%;
+    width: 80%;
 }
 
-.skill-java{
-    width: 50%;
+.skill-jquery{
+    width: 65%;
 }
 
 .row.item{
@@ -147,6 +147,7 @@ p.address{
 
 .copyright{
     font-size: 75%;
+    display: none;
 }
 
 .copyright a{
